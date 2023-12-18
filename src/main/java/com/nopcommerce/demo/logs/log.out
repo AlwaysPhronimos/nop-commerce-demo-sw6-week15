@@ -1,0 +1,6 @@
+2023-12-18 22:12:889 INFO  HomePage :63 - Click on registerLink : Register
+2023-12-18 22:12:44 INFO  HomePage :82 - Get registerText : Register
+2023-12-18 22:12:41 INFO  HomePage :63 - Click on registerLink : Register
+2023-12-18 22:12:634 INFO  HomePage :90 - Select 'Female' radio button
+2023-12-18 22:12:896 INFO  HomePage :100 - Enter Firstname : 'Smart' to firstName field
+2023-12-18 22:12:169 INFO  HomePage :106 - Enter Lastname : 'Tester' to lastName field
